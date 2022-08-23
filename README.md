@@ -1,16 +1,14 @@
-### Hi there 👋
+Seja bem-vind(o/a) ao meu perfil!
 
-<!--
-**Mamede5151/Mamede5151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Tenho com primeira graduacao a Odontologia
+- 🌱 Atualmente cursando Analise e Desenvolvimento de Sistemas
+- 👯 Backend developer
+- ☕ Java
+- 💬 Golang
+- 📫 Kotlin
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
