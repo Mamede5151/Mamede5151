@@ -1,6 +1,6 @@
 Seja bem-vind(o/a) ao meu perfil!
 
-- 🔭 Tenho com primeira graduacao a Odontologia
+- 🔭 Tenho como primeira graduacao a Odontologia
 - 🌱 Atualmente cursando Analise e Desenvolvimento de Sistemas
 - 👯 Backend developer
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
