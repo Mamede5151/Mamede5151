@@ -32,5 +32,7 @@ Seja bem-vind(o/a) ao meu perfil!
 </div>
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Mamede5151&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Mamede5151&show_icons=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamede5151&layout=compact)
+
+
           
