@@ -32,7 +32,5 @@ Seja bem-vind(o/a) ao meu perfil!
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mamede5151)](https://git.io/streak-stats)
-          
-
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Mamede5151&show_icons=true)
           
