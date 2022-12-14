@@ -20,9 +20,9 @@
 <a href="https://www.linkedin.com/in/joaodevsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
-<b>Acesse o meu gitbook onde disponibilizo resumos e guias de estudo</b>
+<b>Acesse o meu gitbook onde disponibilizo resumos e guias de estudo :</b>  https://joaodev-resumos.gitbook.io/
 
-Resumos : https://joaodev-resumos.gitbook.io/
+
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Mamede5151&show_icons=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamede5151&layout=compact)
 
