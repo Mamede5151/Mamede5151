@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/joaodevsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
-<b>Acesse o meu gitbook, onde disponibilizo resumos e guias de estudo</b>
+<b>Acesse o meu gitbook onde disponibilizo resumos e guias de estudo</b>
 
 Resumos : https://joaodev-resumos.gitbook.io/
 
