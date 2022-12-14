@@ -6,7 +6,7 @@
 
 <b>Seja bem-vind(o/a) ao meu perfil!</b>
 :blush:
-- 🔭 Sou formado bacharel em Odontologia pela Universidade Federal de Campina Grande desde 2015, atuando atualmente como coordenador em Saúde Bucal em Gestão Pública
+- 🔭 Sou formado bacharel em Odontologia pela Universidade Federal de Campina Grande desde 2015, atuando como coordenador em Saúde Bucal em Gestão Pública
 - 🌱 Apaixonado por tecnologia desde criança, iniciei meus estudos em Análise e Desenvolvimento de Sistemas  em 2021
 - 👯 Backend developer
 - Ferramentas e Tecnologias
