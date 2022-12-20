@@ -4,15 +4,16 @@
 
 
 
-<b>Seja bem-vind(o/a) ao meu perfil!</b>
-:blush:
-- 🔭 Sou formado bacharel em Odontologia pela Universidade Federal de Campina Grande desde 2015, atuando como coordenador em Saúde Bucal em Gestão Pública
-- 🌱 Apaixonado por tecnologia desde criança, iniciei meus estudos em Análise e Desenvolvimento de Sistemas  em 2021
-- 👯 Backend developer
-- Ferramentas e Tecnologias
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+**Seja bem-vind(o/a) ao meu perfil!**
+:octocat:
++ :frowning_man: Sou formado bacharel em Odontologia pela Universidade Federal de Campina Grande desde 2015, atuando como coordenador em Saúde Bucal em Gestão Pública
++ :man_technologist: Apaixonado por tecnologia desde criança, iniciei meus estudos em Análise e Desenvolvimento de Sistemas  em 2021
++ :coffee: Backend developer, estudando principalmente Java
++ :toolbox: Ferramentas e Tecnologias que estou estudando:
 
-<b>Contatos</b>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+**Contatos**
 
 <div>
 
@@ -20,7 +21,9 @@
 <a href="https://www.linkedin.com/in/joaodevsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
-<b>Acesse o meu gitbook onde disponibilizo resumos e guias de estudo :</b>  https://joaodev-resumos.gitbook.io/
+
+
+
 
 
 
